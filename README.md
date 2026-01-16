@@ -1,97 +1,114 @@
-<!-- MINIMAL HACKER THEME GITHUB PROFILE README (NO ASCII, NO GIFs, INTERNSHIP-FOCUSED) -->
+<!-- FLASHY ANIMATED GITHUB PROFILE README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,50:0f0f0f,100:1a1a1a&text=SHRIHARI&fontColor=00ff9c&fontSize=44&desc=STUDENT%20DEVELOPER%20|%20INTERNSHIP%20SEEKING&descAlignY=70" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shrihari+👾;Student+Developer+%7C+ML+%26+Frontend;I+build+cool+things+with+code" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00ff9c&center=true&vCenter=true&width=760&lines=frontend+developer;machine+learning;clean+systems+over+noise" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
 </div>
 
 ---
 
-## About
+## 🧬 Who Am I?
 
-I’m a **student developer actively seeking internships**, with interests in **frontend engineering** and **machine learning**. I focus on writing **clean, readable code**, understanding trade-offs, and building systems that are easy to maintain and reason about.
+```bash
+> student_dev --name Shrihari --mode creative
+✔ frontend engineer
+✔ machine learning explorer
+✔ hackathon builder
+✔ UI/UX perfectionist
+```
 
-I value consistency, clarity, and learning from real-world codebases.
+I build **flashy, animated, game‑inspired interfaces** and back them up with **solid ML & data logic**. I like projects that *feel alive* — not boring CRUD apps.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,fastapi,firebase,git,github,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,firebase,git,github,tailwind" />
 
 </div>
 
 ---
 
-## Selected Work
+## 🎮 Signature Projects
 
-### Machine Learning
+### 🟩 Minecraft‑Inspired Portfolio
 
-* Handling imbalanced datasets
-* Precision–recall trade-offs
-* Threshold tuning and evaluation
+> A playable‑feeling portfolio UI
 
-**Python · scikit-learn · Pandas**
+* Game menu navigation (Resume / Projects / About)
+* Keyboard‑first interactions
+* Animations everywhere ✨
 
----
-
-### Application Development
-
-* Authentication and routing
-* Clean state and component structure
-* Maintainable frontend logic
-
-**React · Firebase · TypeScript**
+🛠 **React · Tailwind · Framer Motion**
 
 ---
 
-### Portfolio
+### 📊 ML Classification Playground
 
-A simple place to showcase projects and experiments.
+> Playing with thresholds like a mad scientist 🧪
 
-**Link:** *Coming soon*
+* Precision‑Recall tradeoffs
+* Imbalanced datasets
+* Metric‑driven decisions
 
----
-
-## Problem Solving
-
-* Regular LeetCode practice
-* Strong foundation in **DSA and Java OOP**
-* Focus on correctness before optimization
+🛠 **Python · scikit‑learn · Pandas**
 
 ---
 
-## Internship Readiness
+### 🔐 Firebase Auth System
 
-* Comfortable working in existing codebases
-* Writes clear commits and pull requests
-* Understands performance vs readability trade-offs
-* Learns quickly and communicates clearly
+> Clean auth with smooth UX
+
+* Secure login flows
+* Protected routes
+* Modern UI
+
+🛠 **Firebase · React · TypeScript**
+
+---
+
+## 🧠 Problem Solving Mode
+
+```python
+while not solved:
+    think()
+    break_problem()
+    optimize()
+```
+
+* LeetCode focused
+* Strong in **DSA + OOP (Java)**
+
+---
+
+## 📈 GitHub Stats (because why not 😎)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuruShrihari&show_icons=true&theme=dark&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=cccccc" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruShrihari&theme=dark&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
 
 </div>
 
 ---
 
-## Current Focus
+## 🌌 Currently Leveling Up
 
-* Advanced machine learning concepts
-* System design fundamentals
-* Writing production-quality frontend code
+* Advanced ML concepts
+* System Design basics
+* Ultra‑polished UI animations
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003b2f&height=100&section=footer" />
+### 🚀 Let’s build something unforgettable
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=120&section=footer" />
 
 </div>
