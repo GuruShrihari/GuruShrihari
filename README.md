@@ -1,119 +1,115 @@
-<!-- CYBERPUNK THEME GITHUB PROFILE README (NO MINECRAFT MENTION) -->
+<!-- ANIME MONOCHROME THEME GITHUB PROFILE README (NO GIFs) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0f2027,50:203a43,100:2c5364&text=SHRIHARI&fontColor=00F7FF&fontSize=48&desc=CYBERPUNK%20STUDENT%20DEVELOPER&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:0f0f0f,50:2b2b2b,100:6b6b6b&text=SHRIHARI&fontColor=ffffff&fontSize=46&desc=MONOCHROME%20ANIME%20AESTHETIC%20DEVELOPER&descAlignY=70" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=780&lines=Frontend+%7C+Machine+Learning+%7C+Hackathons;Clean+Systems.+Sharp+UI.+Real+Logic.;Build+fast.+Build+clean.+Build+cool." />
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="460" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=900&color=bbbbbb&center=true&vCenter=true&width=820&lines=Frontend+Developer+%7C+Machine+Learning;Black.+White.+Focus.;Build+quietly.+Ship+consistently." />
 
 </div>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## ◼︎ PROFILE
 
-```bash
-$ whoami
-> Shrihari
-
-$ profile --mode cyberpunk
-✔ student developer
-✔ web development enthusiast
-✔ machine learning explorer
-✔ hackathon participant
-✔ performance-focused builder
+```txt
+Name        : Shrihari
+Role        : Student Developer
+Focus       : Frontend • Machine Learning
+Aesthetic   : Anime • Monochrome • Minimal
+Principle   : Discipline over hype
 ```
 
-I focus on building **high‑quality software with clean architecture, polished UI, and solid fundamentals**. I enjoy working across the stack — from frontend experiences to data‑driven machine learning experiments.
+I prefer **quiet, focused engineering** — clean systems, readable code, and ML work driven by evaluation rather than hype. Minimal visuals, maximum intent.
 
 ---
 
-## ⚙️ TECH STACK
+## ◻︎ CORE STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,react,fastapi,firebase,git,github,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nodejs,firebase,git,github,tailwind&theme=dark" />
 
 </div>
 
 ---
 
-## 🧪 FEATURED WORK
+## ◼︎ SELECTED WORK
 
-### 🌐 Personal Portfolio
+### ▢ Personal Portfolio
 
-> A curated showcase of my work and experiments
+> A simple, intentional showcase of my work
 
-* Projects, experience, and skills
-* Clean layout with smooth interactions
+* Projects and experiments
+* Smooth, distraction‑free UX
 
 🔗 **Link:** *Coming soon*
 
 ---
 
-### 📊 Machine Learning Experiments
+### ▢ Machine Learning Experiments
 
-> Practical ML, not just theory
+> Measured, practical ML
 
-* Working with imbalanced datasets
-* Precision–Recall trade‑offs
-* Threshold tuning & evaluation metrics
+* Imbalanced datasets
+* Precision–Recall tuning
+* Validation‑driven decisions
 
-🧰 **Python · scikit‑learn · Pandas**
-
----
-
-### 🔐 Authentication & App Infrastructure
-
-> Secure and scalable foundations
-
-* Firebase Authentication
-* Protected routes
-* Clean UX patterns
-
-🧰 **Firebase · React · TypeScript**
+**Tools:** Python · scikit‑learn · Pandas
 
 ---
 
-## 🧩 PROBLEM‑SOLVING ENGINE
+### ▢ Application Foundations
+
+> Reliable building blocks
+
+* Authentication & routing
+* Clean state management
+* Maintainable structure
+
+**Tools:** React · Firebase · TypeScript
+
+---
+
+## ◻︎ PROBLEM‑SOLVING LOOP
 
 ```python
-while not optimal:
-    analyze()
-    simplify()
-    optimize()
+for task in challenges:
+    understand(task)
+    simplify(task)
+    execute(task)
 ```
 
-* Regular LeetCode practice
-* Strong foundation in **DSA & Java OOP**
+* Consistent LeetCode practice
+* Strong **DSA & Java OOP fundamentals**
 
 ---
 
-## 📈 GITHUB METRICS
+## ◼︎ SIGNALS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=GuruShrihari&show_icons=true&theme=graywhite&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruShrihari&theme=graywhite&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-## 🌌 CURRENT FOCUS
+## ◻︎ CURRENT ARC
 
-* Advanced Machine Learning concepts
+* Advanced Machine Learning
 * System Design fundamentals
-* Performance‑oriented frontend development
+* Writing maintainable frontend systems
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:7a7a7a&height=120&section=footer" />
 
-### ⚡ BUILD WITH INTENT
+### 「 静かに強く 」
+
+*(Quiet, but strong)*
 
 </div>
