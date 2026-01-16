@@ -90,9 +90,11 @@ while not solved:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuruShrihari&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats-one-chi-84.vercel.app/api?username=GuruShrihari&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=GuruShrihari&theme=tokyonight" height="165" />
+<img
+  src="https://github-readme-stats-one-chi-84.vercel.app/api/top-langs/?username=GuruShrihari&layout=compact&theme=tokyonight"
+/>
 
 </div>
 
