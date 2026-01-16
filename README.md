@@ -14,10 +14,10 @@
 
 ```bash
 > student_dev --name Shrihari --mode creative
-✔ frontend engineer
+✔ web development enthusiast
 ✔ machine learning explorer
 ✔ hackathon builder
-✔ UI/UX perfectionist
+✔ frontend engineer
 ```
 
 I build **flashy, animated, game‑inspired interfaces** and back them up with **solid ML & data logic**. I like projects that *feel alive* — not boring CRUD apps.
@@ -28,25 +28,12 @@ I build **flashy, animated, game‑inspired interfaces** and back them up with *
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,firebase,git,github,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,fastapi,firebase,git,github,tailwind&theme=dark" />
 
 </div>
-
 ---
 
 ## 🎮 Signature Projects
-
-### 🟩 Minecraft‑Inspired Portfolio
-
-> A playable‑feeling portfolio UI
-
-* Game menu navigation (Resume / Projects / About)
-* Keyboard‑first interactions
-* Animations everywhere ✨
-
-🛠 **React · Tailwind · Framer Motion**
-
----
 
 ### 📊 ML Classification Playground
 
@@ -90,8 +77,8 @@ while not solved:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=GuruShrihari&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuruShrihari&theme=tokyonight" height="165" />
 
 </div>
 
@@ -100,7 +87,7 @@ while not solved:
 ## 🌌 Currently Leveling Up
 
 * Advanced ML concepts
-* System Design basics
+* FASTAPI Backend concepts
 * Ultra‑polished UI animations
 
 ---
